@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm MD SAKIB HASAN</h1>
 <h3 align="center">A passionate game developer</h3>
 
-<img src="https://raw.githubusercontent.com/sakibh20/sakibh20/output/snake.svg" alt="Snake animation" />
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib-unitydev&label=Profile%20views&color=0e75b6&style=flat" alt="sakib-unitydev" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibh20&label=Profile%20views&color=0e75b6&style=flat" alt="sakibh20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakibh20" alt="sakibh20" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-unitydev" alt="sakib-unitydev" /></a> </p>
 
 - 🔭 I’m currently working on **desktop games**
 
@@ -32,6 +29,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibh20&show_icons=true&locale=en&layout=compact" alt="sakibh20" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-unitydev&show_icons=true&locale=en&layout=compact" alt="sakib-unitydev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakibh20&show_icons=true&locale=en" alt="sakibh20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakib-unitydev&show_icons=true&locale=en" alt="sakib-unitydev" /></p>
